@@ -1,0 +1,32 @@
+# Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (large files)
+data/*.csv
+data/*.pkl
+data/*.joblib
+models/*.pkl
+models/*.joblib
+
+# Environment
+.env
+.venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Logs
+*.log
