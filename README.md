@@ -154,5 +154,5 @@ If you use this work, please cite:
 
 ## Author
 
-**Garima Yadav** - MSc Computer Science | Fraud Detection & Explainable AI | Symbiosis Skills and Professional University
+**Garima Yadav** - MSc Data Science | Fraud Detection & Explainable AI | Symbiosis Skills and Professional University
 =======
