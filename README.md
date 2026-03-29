@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Explainable Cost-Sensitive Fraud Detection with Human-in-the-Loop Learning
 
 > MSc Research Project | Financial Transaction Fraud Detection | PaySim Dataset
