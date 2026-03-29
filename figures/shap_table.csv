@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,feature,shap_value
 8,balance_ratio,5.5100284
 3,newbalanceOrig,2.9275305
@@ -9,3 +10,16 @@
 2,oldbalanceOrg,0.77358425
 1,amount,0.74736035
 5,newbalanceDest,0.5192459
+=======
+,feature,shap_value
+8,balance_ratio,5.5100284
+3,newbalanceOrig,2.9275305
+12,type_PAYMENT,1.4553541
+0,step,1.4262645
+4,oldbalanceDest,0.90315133
+6,balance_delta,0.9021224
+10,type_CASH_OUT,0.84930784
+2,oldbalanceOrg,0.77358425
+1,amount,0.74736035
+5,newbalanceDest,0.5192459
+>>>>>>> 1fe2eec78bd1178a8e0b6453e040bb6b2a1e5961
