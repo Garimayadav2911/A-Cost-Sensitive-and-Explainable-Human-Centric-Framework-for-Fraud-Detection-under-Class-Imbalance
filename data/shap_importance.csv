@@ -1,0 +1,12 @@
+Feature,SHAP_Value
+balance_delta,6.4080596
+balance_ratio,2.8500874
+balance_diff_orig,1.1621151
+balance_diff_dest,0.8151038
+amount,0.76907116
+newbalanceDest,0.7429021
+type_encoded,0.7416264
+oldbalanceDest,0.7410187
+newbalanceOrig,0.64615965
+step,0.37142968
+oldbalanceOrg,0.31525666

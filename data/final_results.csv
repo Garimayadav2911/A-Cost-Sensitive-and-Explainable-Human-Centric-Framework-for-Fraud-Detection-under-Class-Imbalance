@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+Model,ROC-AUC,PR-AUC,Recall,Precision
+Logistic Regression,0.9766,0.5491,0.8771,0.0301
+SVM (RBF),0.9926,0.2656,0.9629,0.0316
+XGBoost (cost-sensitive),0.9996,0.9974,0.9988,0.8028
+=======
 Metric,Value
 ROC-AUC,99.97%
 Recall,100%
 Precision,57%
 Gray Zone,0.0%
 Savings,$1.1M
+>>>>>>> 1fe2eec78bd1178a8e0b6453e040bb6b2a1e5961
